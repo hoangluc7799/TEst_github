@@ -1,0 +1,62 @@
+﻿@* 1. Khai báo kiểu dữ liệu mà View này sẽ nhận được *@
+@* Controller trả về một danh sách (IEnumerable) các Employee *@
+@model IEnumerable<MySolution.DataLayers.Employee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary">Danh sách nhân viên</h2>
+
+    @* Nút thêm mới (để sau này làm chức năng thêm) *@
+    <a asp-action="Create" class="btn btn-success">
+        <i class="fa fa-plus"></i> Thêm nhân viên mới
+    </a>
+
+    @* 2. Tạo bảng hiển thị *@
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Mã NV</th>
+                <th>Họ và tên</th>
+                <th>Ngày sinh</th>
+                <th>Phòng ban</th>
+                <th>Email</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @* 3. Vòng lặp: Duyệt qua từng nhân viên trong danh sách Model *@
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.EmployeeId</td>
+
+                        @* Sử dụng thuộc tính FullName bạn đã viết trong Class Employee *@
+                        <td>@item.FullName</td>
+
+                        @* Format ngày tháng cho dễ nhìn (dd/MM/yyyy) *@
+                        <td>@item.BirthDate.ToString("dd/MM/yyyy")</td>
+
+                        <td>@item.Department</td>
+                        <td>@item.Email</td>
+                        <td>
+                            @* Các nút chức năng (sẽ làm sau) *@
+                            <a href="#" class="btn btn-sm btn-warning">Sửa</a>
+                            <a href="#" class="btn btn-sm btn-danger">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-center">Không có dữ liệu nhân viên nào.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

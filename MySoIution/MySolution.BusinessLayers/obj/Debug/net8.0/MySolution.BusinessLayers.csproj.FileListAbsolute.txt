@@ -1,0 +1,17 @@
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.BusinessLayers.deps.json
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.BusinessLayers.dll
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.BusinessLayers.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.DataLayers.dll
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.DomainModels.dll
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.DataLayers.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\bin\Debug\net8.0\MySolution.DomainModels.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.csproj.AssemblyReference.cache
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.AssemblyInfoInputs.cache
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.AssemblyInfo.cs
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.csproj.CoreCompileInputs.cache
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySoluti.16428F42.Up2Date
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.dll
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\refint\MySolution.BusinessLayers.dll
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\MySolution.BusinessLayers.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.BusinessLayers\obj\Debug\net8.0\ref\MySolution.BusinessLayers.dll

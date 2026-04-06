@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS_2022_CODE\\MySoIution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143DF3BC-5740-4DCB-AAE1-13C9F82C87B3}|MySolution.DataLayers\\MySolution.DataLayers.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.datalayers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143DF3BC-5740-4DCB-AAE1-13C9F82C87B3}|MySolution.DataLayers\\MySolution.DataLayers.csproj|solutionrelative:mysolution.datalayers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143DF3BC-5740-4DCB-AAE1-13C9F82C87B3}|MySolution.DataLayers\\MySolution.DataLayers.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.datalayers\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143DF3BC-5740-4DCB-AAE1-13C9F82C87B3}|MySolution.DataLayers\\MySolution.DataLayers.csproj|solutionrelative:mysolution.datalayers\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\employee\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\employee\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6ECB1-D9C5-49DF-9417-1AE6FF39C40A}|MySolution.DomainModels\\MySolution.DomainModels.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.domainmodels\\mysolution.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BC6ECB1-D9C5-49DF-9417-1AE6FF39C40A}|MySolution.DomainModels\\MySolution.DomainModels.csproj|solutionrelative:mysolution.domainmodels\\mysolution.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3926E-E03F-40E9-8AEF-AA22B04D44BD}|MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.businesslayers\\mysolution.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFC3926E-E03F-40E9-8AEF-AA22B04D44BD}|MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj|solutionrelative:mysolution.businesslayers\\mysolution.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.hrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71E6B5-3CC8-4BBB-8E97-489F58C078DC}|MySolution.HRM\\MySolution.HRM.csproj|solutionrelative:mysolution.hrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3926E-E03F-40E9-8AEF-AA22B04D44BD}|MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj|e:\\vs_2022_code\\mysoiution\\mysolution.businesslayers\\hrmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC3926E-E03F-40E9-8AEF-AA22B04D44BD}|MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj|solutionrelative:mysolution.businesslayers\\hrmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Controllers\\ShipperController.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "MySolution.HRM\\Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:47:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MySolution.HRM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T00:55:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T00:36:17.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T18:14:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DataLayers\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "MySolution.DataLayers\\EmployeeDAL.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DataLayers\\EmployeeDAL.cs",
+              "RelativeToolTip": "MySolution.DataLayers\\EmployeeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:14:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DataLayers\\Employee.cs",
+              "RelativeDocumentMoniker": "MySolution.DataLayers\\Employee.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DataLayers\\Employee.cs",
+              "RelativeToolTip": "MySolution.DataLayers\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:12:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MySolution.BusinessLayers.csproj",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj",
+              "RelativeDocumentMoniker": "MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj",
+              "RelativeToolTip": "MySolution.BusinessLayers\\MySolution.BusinessLayers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T01:40:37.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySolution.DomainModels.csproj",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DomainModels\\MySolution.DomainModels.csproj",
+              "RelativeDocumentMoniker": "MySolution.DomainModels\\MySolution.DomainModels.csproj",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.DomainModels\\MySolution.DomainModels.csproj",
+              "RelativeToolTip": "MySolution.DomainModels\\MySolution.DomainModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T01:43:16.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Index1.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\Employee\\Index1.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Index1.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\Employee\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T17:58:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T17:00:51.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T00:24:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MySolution.HRM\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:39:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Views\\View.cshtml",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Views\\View.cshtml",
+              "RelativeToolTip": "MySolution.HRM\\Views\\View.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T02:46:08.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HRMService.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.BusinessLayers\\HRMService.cs",
+              "RelativeDocumentMoniker": "MySolution.BusinessLayers\\HRMService.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.BusinessLayers\\HRMService.cs",
+              "RelativeToolTip": "MySolution.BusinessLayers\\HRMService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:30:52.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Program.cs",
+              "RelativeDocumentMoniker": "MySolution.HRM\\Program.cs",
+              "ToolTip": "E:\\VS_2022_CODE\\MySoIution\\MySolution.HRM\\Program.cs",
+              "RelativeToolTip": "MySolution.HRM\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:35:03.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

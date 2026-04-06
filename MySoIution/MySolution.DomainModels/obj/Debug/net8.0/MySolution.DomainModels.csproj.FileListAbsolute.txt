@@ -1,0 +1,11 @@
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\bin\Debug\net8.0\MySolution.DomainModels.deps.json
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\bin\Debug\net8.0\MySolution.DomainModels.dll
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\bin\Debug\net8.0\MySolution.DomainModels.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.AssemblyInfoInputs.cache
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.AssemblyInfo.cs
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.csproj.CoreCompileInputs.cache
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.dll
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\refint\MySolution.DomainModels.dll
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\MySolution.DomainModels.pdb
+E:\VS_2022_CODE\MySoIution\MySolution.DomainModels\obj\Debug\net8.0\ref\MySolution.DomainModels.dll
